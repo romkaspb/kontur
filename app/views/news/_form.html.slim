@@ -1,0 +1,5 @@
+= simple_form_for @news, url: admin_path do |f|
+  = f.input :title
+  = f.input :annotation
+  = f.input :publicated_until
+  = f.button :button, "Save Admin News"

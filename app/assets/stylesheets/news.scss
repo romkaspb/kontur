@@ -1,0 +1,25 @@
+// Place all the styles related to the News controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.simple_form {
+    float: none;
+    text-align : center;
+    width: 800px;
+    border: 1px solid #CCC;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+}
+.simple_form .input-box {
+    margin-bottom: 10px;
+}
+.simple_form input {
+    margin-bottom: 10px;
+    margin: 2px;
+    display: inline-block;
+}
+.table {
+    border-radius: 5px;
+    width: 50%;
+    margin: 0px auto;
+    float: none;
+}
